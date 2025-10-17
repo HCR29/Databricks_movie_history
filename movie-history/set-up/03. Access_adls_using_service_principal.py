@@ -33,7 +33,7 @@ display(spark.read.csv("abfss://demo@moviehistory07.dfs.core.windows.net/movie.c
 
 # COMMAND ----------
 
-##VIDEO 43 DE UDEMY ABAJO
+##VIDEO 43 DE UDEMY ABAJO x
 
 # COMMAND ----------
 
